@@ -1,1 +1,2 @@
   - Aprendendo-JS
+     -- este repositório foi feito para estudar JavaScript
